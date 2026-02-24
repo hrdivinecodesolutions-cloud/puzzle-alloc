@@ -1,0 +1,6 @@
+@puzzle_alloc_HostAddress = http://localhost:5085
+
+GET {{puzzle_alloc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
